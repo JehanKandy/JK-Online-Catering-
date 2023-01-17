@@ -15,6 +15,7 @@
     background: -webkit-linear-gradient(rgba(7, 7, 7, 0.815), rgba(19, 18, 18, 0.815)), url(../images/food1.jpg);
     background-position: center;
     background-size: cover;
+    color: white;
 }
 .food-grid{
     display: grid;
