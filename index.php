@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="css/style.css">
 <?php include("lib/layouts/header.php"); ?>
 
 
