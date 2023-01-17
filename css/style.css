@@ -46,7 +46,11 @@
 .food-grid .itme4{
     grid-area: d;
 }
-/* 
+.food-grid .itme1, .food-grid .itme2, .food-grid .itme3, .food-grid .itme4, .title{
+    font-size: 20px;
+    text-align: center;
+}
+ /* 
     ***************************************************************************************
 
                              commen laptop screen and small screens
