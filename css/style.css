@@ -30,15 +30,19 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 .food-grid .itme1{
     grid-area: a;
 }
+
 .food-grid .itme2{
     grid-area: b;
 }
+
 .food-grid .itme3{
     grid-area: c;
 }
+
 .food-grid .itme4{
     grid-area: d;
 }
