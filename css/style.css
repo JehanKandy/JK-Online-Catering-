@@ -1,57 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&family=Overpass&family=PT+Sans+Narrow&family=Source+Sans+Pro&display=swap');
-
-/*
-
-    font-family: 'Merriweather Sans', sans-serif;
-    font-family: 'Overpass', sans-serif;
-    font-family: 'PT Sans Narrow', sans-serif;
-    font-family: 'Source Sans Pro', sans-serif;
-
-*/
+<link rel="stylesheet" href="css/style.css">
+<?php include("lib/layouts/header.php"); ?>
 
 
-
-
-
-
-/* 
-    ***************************************************************************************
-
-                             commen laptop screen and small screens
-
-                                            769px - 1400px
-
-    ***************************************************************************************
-*/
-
-@media only screen and (min-device-width: 821px) and (max-device-width: 1400px) {
-
-}
-
-/* 
-    ***************************************************************************************
-
-                                        iPads, Tablets
-
-                                        481px — 768px
-
-    ***************************************************************************************
-*/
-
-@media only screen and (min-device-width: 481px) and (max-device-width: 820px) {
-
-}
-
-/* 
-    ***************************************************************************************
-
-                                     commen mobile screen
-
-                                            320x480
-
-    ***************************************************************************************
-*/
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-
-}
+<?php include("lib/layouts/main_footer.php"); ?>
+<script src="js/script.js"></script>
