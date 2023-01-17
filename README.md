@@ -1,4 +1,4 @@
-<h1 align="center">JK-Online-Catering-
+<h1 align="center">JK-Online-Catering</h1>
 Online Food Catering Service
 
 
