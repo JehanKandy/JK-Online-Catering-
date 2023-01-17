@@ -2,7 +2,7 @@
 <div class="footer-main">
     <div class="container">
         <div class="food-grid">
-            <div class="itme1"></div>
+            <div class="itme1">JK Catering</div>
             <div class="itme2"></div>
             <div class="itme3"></div>
             <div class="itme4"></div>
