@@ -222,19 +222,19 @@
 }
 .most-food-grid .mitem2{
     grid-area: b;
-    background-image: url("../images/cupcake1.jpg");
+    background-image: url("../images/fried_rice.jpg");
 }
 .most-food-grid .mitem3{
     grid-area: c;
-    background-image: url("../images/cupcake1.jpg");
+    background-image: url("../images/hbun3.jpg");
 }
 .most-food-grid .mitem4{
     grid-area: d;
-    background-image: url("../images/cupcake1.jpg");
+    background-image: url("../images/cupcake3.jpg");
 }
 .most-food-grid .mitem5{
     grid-area: e;
-    background-image: url("../images/cupcake1.jpg");
+    background-image: url("../images/cutlet2.jpg");
 }
 .most-food-grid .mitem6{
     grid-area: f;
