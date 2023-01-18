@@ -202,7 +202,7 @@
     display: grid;
     width: 100%;
     height: auto;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     grid-auto-rows: minmax(350px, auto);
     grid-gap: 1rem;
     grid-template-areas: "a b c d e f";
