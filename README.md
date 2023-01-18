@@ -17,6 +17,7 @@
 
   <h4> 18 January 2023</h4>
   
+  - lib/layouts/main_nav.php
   - index.php (UPDATE)
   - lib/layouts/main_footer.php (UPDATE)
   - css/style.css (UPDATE)
