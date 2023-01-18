@@ -84,6 +84,17 @@
         </div>
 </div>
 
+<div class="get-in">
+    <div class="container">
+        <div class="title">Get in Touch </div>
+        <div class="body">
+            <form action="<?php echo($_SERVER['PHP_SELF']); ?>" method="POST" name="getIn" onsubmit="return validate_get();">
+            
+            </form>
+        </div>
+    </div>
+</div>
+
 
 <?php //include("lib/layouts/main_footer.php"); ?>
 <script src="js/script.js"></script>
