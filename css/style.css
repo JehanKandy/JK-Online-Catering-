@@ -214,6 +214,21 @@
 .most-food-grid .mitem1{
     grid-area: a;
 }
+.most-food-grid .mitem2{
+    grid-area: b;
+}
+.most-food-grid .mitem3{
+    grid-area: c;
+}
+.most-food-grid .mitem4{
+    grid-area: d;
+}
+.most-food-grid .mitem5{
+    grid-area: e;
+}
+.most-food-grid .mitem6{
+    grid-area: f;
+}
  /* 
     ***************************************************************************************
 
