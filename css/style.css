@@ -157,7 +157,7 @@
     height: auto;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: minmax(550px, auto);
-    grid-gap: 3rem;
+    grid-gap: 5rem;
     grid-template-areas: "a b" "c d";
     padding: 45 45 45 45;
     margin-top: 20px;
@@ -166,9 +166,10 @@
 
 .food-info-grid .fitem1{
     grid-area: a;
-    background-image: url("../images/chi_devel2.jpg");
+    background-image: url("../images/dall1.jpg");
     background-position: center;
     background-size: cover;
+    border-radius: 5px;
 }
 .food-info-grid .fitem2{
     grid-area: b;
@@ -178,6 +179,10 @@
 }
 .food-info-grid .fitem4{
     grid-area: d;
+    background-image: url("../images/dryfish.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
 }
 
  /* 
