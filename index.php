@@ -3,7 +3,7 @@
 <?php include("lib/layouts/main_nav.php"); ?>
 
 <div class="home-content">
-    hi all
+    <div class="title">JK Catering Service</div>
 </div>
 
 <?php //include("lib/layouts/main_footer.php"); ?>
