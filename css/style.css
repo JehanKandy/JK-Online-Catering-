@@ -312,8 +312,8 @@
     padding: 8px 15px;
 }
 .most-food-grid .mitem5{
-    grid-area: d;
-    background-image: url("../images/cutlet2.jpg");
+    grid-area: e;
+    background-image: url("../images/cupcake2.jpg");
 }
 .mitem5 .body{
     position: absolute;
@@ -334,6 +334,30 @@
     width: 150px;
     padding: 8px 15px;
 }
+.most-food-grid .mitem6{
+    grid-area: f;
+    background-image: url("../images/dryfish.jpg");
+}
+.mitem6 .body{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: black;
+    color: white;
+    margin-bottom: 50px;
+    opacity: 0;
+    transition: 0.5s;
+}
+.mitem6:hover{
+    cursor: pointer;
+}
+.mitem6:hover .body{
+    visibility: visible;
+    opacity: 0.7; 
+    width: 150px;
+    padding: 8px 15px;
+}
+
 
  /* 
     ***************************************************************************************
