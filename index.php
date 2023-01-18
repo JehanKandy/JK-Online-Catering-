@@ -90,6 +90,7 @@
         <div class="body">
             <form action="<?php echo($_SERVER['PHP_SELF']); ?>" method="POST" name="getIn" onsubmit="return validate_get();">
                 <input type="email" name="email" id="emailGet" class="form-input" placeholder="Get in Touch">
+                <input type="submit" value="Via Email" class="get-in-btn" name="get_in">
             </form>
         </div>
     </div>
