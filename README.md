@@ -19,8 +19,8 @@
   
   - index.php (UPDATE)
   - lib/layouts/main_footer.php (UPDATE)
-  - css/style.css
-  - js/script.js
+  - css/style.css (UPDATE)
+  - js/script.js (UPDATE)
   
  
 
