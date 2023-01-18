@@ -89,7 +89,7 @@
         <div class="title">Get in Touch </div>
         <div class="body">
             <form action="<?php echo($_SERVER['PHP_SELF']); ?>" method="POST" name="getIn" onsubmit="return validate_get();">
-                <input type="email" name="email" id="emailGet" class="form-input">
+                <input type="email" name="email" id="emailGet" class="form-input" placeholder="Get in Touch">
             </form>
         </div>
     </div>
