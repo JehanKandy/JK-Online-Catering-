@@ -141,6 +141,12 @@
     border: 3px solid white;
     color: white;
     margin-top: 15px;
+    transition: 0.5s;
+}
+.home-info-btn:hover{
+    background-color: white;
+    cursor: pointer;
+    color: black;
 }
  /* 
     ***************************************************************************************
