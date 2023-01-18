@@ -213,6 +213,9 @@
 
 .most-food-grid .mitem1{
     grid-area: a;
+    background-image: url("../images/cupcake1.jpg");
+    background-position: center;
+    background-size: cover;
 }
 .most-food-grid .mitem2{
     grid-area: b;
