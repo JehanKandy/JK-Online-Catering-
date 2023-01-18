@@ -99,9 +99,24 @@
     margin-top: -40px;
     font-size: 25px;    
 }
+.nav-right{
+    margin-left: 88%;
+    margin-top: -40px;
+}
 .login-nav-btn{
     background-color: transparent;
-    color: white;        
+    color: white;
+    height: 40px;
+    padding: 10px 50px 10px 50px;   
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;     
+    transition: 0.5s;
+}
+.login-nav-btn:hover{
+    color: rgb(37, 48, 56);
+    cursor: pointer;
+    background-color: white;
 }
  /* 
     ***************************************************************************************
@@ -139,6 +154,10 @@
         padding: 45 45 45 45;
         margin-top: 20px;
         margin-bottom: 5px;
+    }
+    .nav-right{
+        margin-left: 80%;
+        margin-top: -40px;
     }
 }
 
