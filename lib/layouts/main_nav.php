@@ -2,7 +2,7 @@
 <nav>
     <div class="nav-contenmt">
         <div class="container">
-            hi
+            <img src="images/fried_rice.jpg" alt="" class="nav-logo">
         </div>
     </div>
 </nav>
