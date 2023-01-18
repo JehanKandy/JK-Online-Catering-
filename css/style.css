@@ -184,4 +184,8 @@
         margin-top: 20px;
         margin-bottom: 5px;
     }
+    .nav-right{
+        margin-left: 80%;
+        margin-top: -40px;
+    }
 }
