@@ -17,10 +17,8 @@
 
   <h4> 18 January 2023</h4>
   
-  - project Start
-  - index.php
-  - lib/layouts/header.php
-  - lib/layouts/main_footer.php
+  - index.php (UPDATE)
+  - lib/layouts/main_footer.php (UPDATE)
   - css/style.css
   - js/script.js
   
