@@ -99,8 +99,9 @@
     margin-top: -40px;
     font-size: 25px;    
 }
-.nav-right{
-    color: white;
+.login-nav-btn{
+    background-color: transparent;
+    color: white;        
 }
  /* 
     ***************************************************************************************
