@@ -4,7 +4,7 @@
 
 <div class="home-content">
     <div class="title">JK Catering Service <br>
-    <a href=""><button class="home-info-btn">Read More</button></a>
+    <a href="lib/views/login.php"><button class="home-info-btn">Read More</button></a>
     </div>
 </div>
 
