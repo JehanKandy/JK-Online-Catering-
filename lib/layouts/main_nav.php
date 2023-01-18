@@ -6,7 +6,7 @@
             <div class="logo-text">JK Caterings</div>
 
             <div class="nav-right">
-                <a href="../views/login.php"><button class="login-nav-btn">Login</button></a>
+                <a href="lib/views/login.php"><button class="login-nav-btn">Login</button></a>
             </div>
         </div>
     </div>
