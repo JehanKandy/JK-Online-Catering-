@@ -148,6 +148,9 @@
     cursor: pointer;
     color: black;
 }
+.main-content{
+    margin: 150px 0 150px 0;
+}
  /* 
     ***************************************************************************************
 
@@ -159,7 +162,9 @@
 */
 
 @media only screen and (min-device-width: 821px) and (max-device-width: 1400px) {
-
+    .home-content{
+        background-image: -webkit-linear-gradient(rgba(63, 63, 63, 0.7), rgba(0, 0, 0, 0.7)), url("../images/fried_rice.jpg");
+    }
 }
 
 /* 
@@ -188,6 +193,9 @@
     .nav-right{
         margin-left: 80%;
         margin-top: -40px;
+    }
+    .home-content{
+        background-image: -webkit-linear-gradient(rgba(63, 63, 63, 0.7), rgba(0, 0, 0, 0.7)), url("../images/dryfish.jpg");
     }
 }
 
@@ -223,5 +231,8 @@
     .nav-right{
         margin-left: 60%;
         margin-top: -30px;
+    }
+    .home-content{
+        background-image: -webkit-linear-gradient(rgba(63, 63, 63, 0.7), rgba(0, 0, 0, 0.7)), url("../images/");
     }
 }
