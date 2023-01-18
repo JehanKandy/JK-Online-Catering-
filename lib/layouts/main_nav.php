@@ -4,6 +4,10 @@
         <div class="container">
             <img src="images/fried_rice.jpg" alt="" class="nav-logo">
             <div class="logo-text">JK Caterings</div>
+
+            <div class="nav-right">
+                hi
+            </div>
         </div>
     </div>
 </nav>
