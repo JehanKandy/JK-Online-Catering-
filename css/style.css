@@ -375,6 +375,15 @@
 }
 .get-in-btn{
     width: 100%;
+    margin-top: 20px;
+    padding: 10px 0 10px 0;
+    border: none;
+    background-color: orange;
+    transition: 0.5s;
+}
+.get-in-btn:hover{
+    background-color: rgb(179, 120, 12);
+    cursor: pointer;
 }
  /* 
     ***************************************************************************************
