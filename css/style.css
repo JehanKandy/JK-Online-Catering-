@@ -54,6 +54,22 @@
     font-size: 18px;
     margin-top: 20px;
 }
+
+.food-grid.itme2, .food-grid.itme3, .body{
+    margin-top: 20px;
+    text-align: center;
+    text-align: left;
+    padding-left: 40px;
+}
+.food-grid.itme2, .food-grid.itme3, .body ul{
+    list-style-type: none;
+}
+.food-grid.itme2, .food-grid.itme3, .body ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
  /* 
     ***************************************************************************************
 
