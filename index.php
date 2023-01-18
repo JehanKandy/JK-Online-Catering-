@@ -48,7 +48,7 @@
 </div>
 
 <div class="most-get-foods">
-    <div class="container">
+
         <div class="title">Most Popular Foods</div>
         <div class="most-food-grid">
             <div class="mitem1"></div>
@@ -58,7 +58,6 @@
             <div class="mitem5"></div>
             <div class="mitem6"></div>
         </div>
-    </div>
 </div>
 
 
