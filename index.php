@@ -10,7 +10,12 @@
 
 <div class="main-content">
     <div class="container">
-        hi
+        <div class="food-info-grid">
+            <div class="fitem1">Food 1</div>
+            <div class="fitem2">Food 2</div>
+            <div class="fitem3">Food 3</div>
+            <div class="fitem4">Food 4</div>
+        </div>
     </div>
 </div>
 
