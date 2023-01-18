@@ -163,6 +163,19 @@
     margin-top: 20px;
     margin-bottom: 5px;
 }
+
+.food-info-grid .fitem1{
+    grid-area: a;
+}
+.food-info-grid .fitem2{
+    grid-area: b;
+}
+.food-info-grid .fitem3{
+    grid-area: c;
+}
+.food-info-grid .fitem4{
+    grid-area: d;
+}
  /* 
     ***************************************************************************************
 
