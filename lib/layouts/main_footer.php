@@ -2,7 +2,8 @@
 <footer>
     <div class="footer-main">
         <div class="container">
-            <div class="title">JK Catering</div>
+            <div class="title-main">JK Caterings</div>
+            <hr class="footer-hr">
             <div class="food-grid">
                 <div class="itme1">
                     <div class="title">JK Catering</div>
@@ -42,6 +43,10 @@
                         <i class="fas fa-mail-bulk"></i> jehankandy@gmail.com
                     </div>
                 </div>
+            </div>
+            <hr class="footer-hr">
+            <div class="copy">
+                All Rights Reserved 2021 - 2023 <i class="far fa-copyright"></i><a href="https://github.com/JehanKandy/JK-Online-Catering-" target="_blank">JK Caterings,</a> Developed By <a href="https://github.com/JehanKandy" target="_blank">JehanKandy</a> 
             </div>
         </div>
     </div>
