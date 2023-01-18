@@ -186,11 +186,34 @@
 }
 .most-get-foods{
     margin: 150px 0 150px 0;
-    background-image: -webkit-linear-gradient(rgba(63, 63, 63, 0.7), rgba(0, 0, 0, 0.7)), url("../images/fishcurry.jpg");
-    height: 70vh;
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/hbun3.jpg");
+    height: 90vh;
     width: 100%;
+    background-position: center;
+    background-size: cover;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+.most-get-foods .title{
+    padding-top: 80px;
+    color: white;
+    font-size: 50px;
+}
+.most-food-grid{
+    display: grid;
+    width: 100%;
+    height: auto;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(350px, auto);
+    grid-gap: 1rem;
+    grid-template-areas: "a b c d e f";
+    padding: 45 45 45 45;
+    margin-top: 20px;
+    margin-bottom: 5px;
 }
 
+.most-food-grid .mitem1{
+    grid-area: a;
+}
  /* 
     ***************************************************************************************
 
