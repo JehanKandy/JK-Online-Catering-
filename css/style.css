@@ -231,6 +231,18 @@
     .home-content{
         background-image: -webkit-linear-gradient(rgba(63, 63, 63, 0.7), rgba(0, 0, 0, 0.7)), url("../images/dryfish.jpg");
     }
+    .food-info-grid{
+        display: grid;
+        width: 100%;
+        height: auto;
+        grid-template-columns: repeat(1, 1fr);
+        grid-auto-rows: minmax(550px, auto);
+        grid-gap: 5rem;
+        grid-template-areas: "a" "b" "c" "d";
+        padding: 45 45 45 45;
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
 }
 
 /* 
