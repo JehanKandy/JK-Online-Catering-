@@ -51,12 +51,36 @@
 
         <div class="title">Most Popular Foods</div>
         <div class="most-food-grid">
-            <div class="mitem1"></div>
-            <div class="mitem2"></div>
-            <div class="mitem3"></div>
-            <div class="mitem4"></div>
-            <div class="mitem5"></div>
-            <div class="mitem6"></div>
+            <div class="mitem1">
+                <div class="body">
+                    Cherry Cupcakes
+                </div>
+            </div>
+            <div class="mitem2">
+                <div class="body">
+                    Fried Rice
+                </div> 
+            </div>
+            <div class="mitem3">
+                <div class="body">
+                    Hotdog 
+                </div>
+            </div>
+            <div class="mitem4">
+                <div class="body">
+                    Cutlet 
+                </div>
+            </div>
+            <div class="mitem5">
+                <div class="body">
+                    Cutlet 
+                </div>
+            </div>
+            <div class="mitem6">
+                <div class="body">
+                    Cutlet 
+                </div>
+            </div>
         </div>
 </div>
 
