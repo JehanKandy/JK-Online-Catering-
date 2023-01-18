@@ -1,351 +1,77 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&family=Overpass&family=PT+Sans+Narrow&family=Source+Sans+Pro&display=swap');
+<link rel="stylesheet" href="css/style.css">
+<?php include("lib/layouts/header.php"); ?>
+<?php include("lib/layouts/main_nav.php"); ?>
 
-/*
+<div class="home-content">
+    <div class="title">JK Catering Service <br>
+    <a href=""><button class="home-info-btn">Read More</button></a>
+    </div>
+</div>
 
-    font-family: 'Merriweather Sans', sans-serif;
-    font-family: 'Overpass', sans-serif;
-    font-family: 'PT Sans Narrow', sans-serif;
-    font-family: 'Source Sans Pro', sans-serif;
+<div class="main-content">
+        <div class="food-info-grid">
+            <div class="fitem1"></div>
+            <div class="fitem2">
+                <div class="title">
+                    Nice Foods
+                </div>
+                <div class="body">
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa mollitia error ullam quis suscipit odit soluta deleniti possimus. Iure, aut minus eos nisi voluptates recusandae inventore omnis? Adipisci, vero iusto.
+                    Ipsa quod, alias tempore vero exercitationem, veritatis qui quaerat, ipsam autem amet veniam consequatur cumque repellat enim fuga! Maiores, omnis. Ullam consequatur placeat expedita debitis, facere culpa eligendi dignissimos nobis.
+                    Deleniti, vel fuga accusamus fugit unde pariatur. Dolorum inventore, eum iusto incidunt odio possimus nostrum qui quaerat, consequuntur iure animi exercitationem voluptatem saepe id corrupti repudiandae dolor optio explicabo. Error.
+                    Eligendi rem minus eum in maiores deleniti voluptates vero, enim doloribus repellat optio, quaerat quis recusandae nemo suscipit corporis impedit natus consequuntur sunt maxime. Doloremque officia aspernatur nam qui? Quae?
+                    Ipsum eaque quibusdam exercitationem! A id similique ut, voluptatem odio sapiente quam perspiciatis? Libero quasi natus, doloremque explicabo aliquam ipsum maiores? Corrupti doloremque odit maiores hic beatae, suscipit deleniti dolorem.
+                    Sapiente aliquid ullam corrupti asperiores, dolores maxime sequi dignissimos nesciunt sint cupiditate omnis repellat aspernatur beatae amet unde sed, veritatis corporis minima molestiae deserunt? Magni expedita fuga delectus animi quas?
+                    Fugiat cumque natus cupiditate placeat tempora suscipit voluptatem laboriosam, incidunt dolor sapiente sed sit at deserunt illo odit! Eius debitis sunt exercitationem excepturi fugiat officiis corrupti esse quibusdam architecto omnis!
+                    Eos laudantium quis voluptatibus et reprehenderit alias numquam exercitationem placeat ab labore ratione, culpa quisquam? Id doloremque a molestias distinctio deleniti, ex quo, facere natus dolor debitis velit, quos delectus!
+                    Qui consequatur est iusto ullam, necessitatibus blanditiis odit asperiores distinctio earum at, dolores delectus eius sint architecto, porro eveniet. At libero qui aperiam perspiciatis corporis cupiditate minima repellendus, id quam.
+                    Non facere molestias dicta officiis in praesentium odit tempore earum incidunt, fugit consequatur sit temporibus aliquam vero laudantium dolores, asperiores vitae repellendus laborum voluptatem similique placeat impedit sint! Aut, nulla.
+                </div>
+            </div>
+            <div class="fitem3">
+                <div class="title">Most Popular Foods</div>
+                <div class="body">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quaerat quis labore placeat, quod minima, incidunt unde repellendus aspernatur laborum maxime a eius exercitationem delectus nisi. Unde natus exercitationem cupiditate.
+                    Tempore quis placeat quaerat quae quam fugiat, mollitia repellendus ullam delectus veniam alias ex reprehenderit possimus, dolores esse magnam sequi harum. Accusamus vitae perferendis totam alias delectus cupiditate harum officia.
+                    Voluptate nobis asperiores, in odio at ad distinctio, laboriosam placeat aut est pariatur sint quo. Iusto molestiae maxime ducimus. Impedit quasi eveniet hic suscipit odit earum esse illo nesciunt aut!
+                    Quaerat sed atque ullam fuga? Maxime veniam voluptate accusantium. Nisi quod vitae beatae sit sequi pariatur, molestias doloremque dolore voluptatibus perferendis voluptates asperiores sunt molestiae libero iste et cupiditate unde!
+                    Eos excepturi dolores veritatis alias fugiat. Sint, expedita. Dolor fuga ipsum adipisci, nihil amet architecto dicta quia doloremque suscipit eum obcaecati dolores quae consequatur, rem doloribus ea placeat, sed accusantium.
+                    Delectus dignissimos quasi similique, est optio mollitia fugiat porro, recusandae non neque animi, eius corrupti aliquid ad! Laborum facilis obcaecati qui incidunt in, rem recusandae reprehenderit magni amet aliquid cum!
+                    Cum repellat aspernatur doloremque! Nemo, quas eaque facilis cupiditate eos illo culpa similique nobis tenetur deleniti beatae esse voluptate est aut minima nisi asperiores amet libero! Inventore atque omnis quod.
+                    Ab in saepe distinctio dolore eos cum quisquam, alias quasi exercitationem, repellendus soluta debitis enim itaque consequuntur ad laboriosam temporibus perspiciatis ea impedit. Nemo saepe quisquam aspernatur perspiciatis maiores officia.
+                    Officia inventore cupiditate itaque eaque deleniti rem. Ad, fugit. Pariatur, itaque reprehenderit? Alias recusandae sapiente amet delectus reprehenderit corrupti culpa! In iusto assumenda excepturi nisi fuga vitae, tenetur ipsum aliquam.
+                    Saepe facilis aut dolorem tempora odit dolore, quisquam ipsum fugit. Eaque, autem. Est, omnis, accusamus neque expedita quo hic tempora quod itaque, soluta quasi ad doloribus unde dolorum sapiente praesentium?
+                </div>
+            </div>
+            <div class="fitem4"></div>
+        </div>
+</div>
 
-*/
+<div class="most-get-foods">
 
-.footer-main{
-    padding: 80px 0 80px 0;
-    background: -webkit-linear-gradient(rgba(7, 7, 7, 0.815), rgba(19, 18, 18, 0.815)), url(../images/food1.jpg);
-    background-position: center;
-    background-size: cover;
-    color: white;
-    font-family: 'Overpass', sans-serif;
-}
-.footer-main .title-main{
-    font-size: 40px;
-}
-.food-grid{
-    display: grid;
-    width: 100%;
-    height: auto;
-    grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: minmax(350px, auto);
-    grid-gap: 1rem;
-    grid-template-areas: "a b c d";
-    padding: 45 45 45 45;
-    margin-top: 20px;
-    margin-bottom: 5px;
-}
+        <div class="title">Most Popular Foods</div>
+        <div class="most-food-grid">
+            <div class="mitem1">
+                <div class="body">
+                    Cherry Cupcakes
+                </div>
+            </div>
+            <div class="mitem2">
+                <div class="body">
+                    Fried Rice
+                </div>
+            </div>
+            <div class="mitem3">
+                <div class="body">
+                    Hotdog 
+                </div>
+            </div>
+            <div class="mitem4"></div>
+            <div class="mitem5"></div>
+            <div class="mitem6"></div>
+        </div>
+</div>
 
-.food-grid .itme1{
-    grid-area: a;
-}
 
-.food-grid .itme2{
-    grid-area: b;
-}
-
-.food-grid .itme3{
-    grid-area: c;
-}
-
-.food-grid .itme4{
-    grid-area: d;
-}
-.food-grid .itme1, .food-grid .itme2, .food-grid .itme3, .food-grid .itme4, .title{
-    font-size: 20px;
-    text-align: center;
-}
-.food-grid .itme1 .body{
-    font-size: 18px;
-    margin-top: 20px;
-}
-
-.food-grid.itme2, .food-grid.itme3, .body{
-    margin-top: 20px;
-    text-align: center;
-    text-align: left;
-    padding-left: 10px;
-}
-.food-grid.itme2, .food-grid.itme3, .body ul{
-    list-style-type: none;
-}
-.food-grid.itme2, .food-grid.itme3, .body ul li a{
-    text-decoration: none;
-    color: white;
-}
-.food-grid .itme4 .body{
-    font-size: 18px;
-    padding-left: 10px;
-    margin-top: 20px;
-}
-.footer-hr{
-    border-top: 1px solid white;
-}
-.copy{
-    text-align: center;
-}
-.nav-contenmt{
-    background-color: rgb(37, 48, 56);
-    height: 80px;
-    font-family: 'Merriweather Sans', sans-serif;
-}
-.nav-logo{
-    width: 50px;
-    height: 50px;
-    margin-top: 15px;
-    border-radius: 5px;
-    box-shadow: 2px 2px 5px rgb(255, 255, 255);
-}
-.logo-text{
-    color: white;
-    margin-left: 70px;
-    margin-top: -40px;
-    font-size: 25px;    
-}
-.nav-right{
-    margin-left: 88%;
-    margin-top: -40px;
-}
-.login-nav-btn{
-    background-color: transparent;
-    color: white;
-    height: 40px;
-    padding: 10px 50px 10px 50px;   
-    color: white;
-    border: 1px solid white;
-    border-radius: 2px;     
-    transition: 0.5s;
-}
-.login-nav-btn:hover{
-    color: rgb(37, 48, 56);
-    cursor: pointer;
-    background-color: white;
-}
-.home-content{
-    width: 100%;
-    height: 800px;
-    background-position: center;
-    background-size: cover;
-    background-image: -webkit-linear-gradient(rgba(63, 63, 63, 0.7), rgba(0, 0, 0, 0.7)), url("../images/fishcurry.jpg");
-    color: white;
-    padding-top: 100px;
-    padding-bottom: 200px;
-}
-.home-content .title{
-    font-size: 60px;
-    margin-top: 200px;
-    font-family: 'Overpass', sans-serif;
-}
-.home-info-btn{
-    font-size: 20px;
-    padding: 15px 50px 15px 50px;
-    background: transparent;
-    border-radius: 5px;
-    border: 3px solid white;
-    color: white;
-    margin-top: 15px;
-    transition: 0.5s;
-}
-.home-info-btn:hover{
-    background-color: white;
-    cursor: pointer;
-    color: black;
-}
-.main-content{
-    margin: 150px 0 150px 0;
-}
-.food-info-grid{
-    display: grid;
-    width: 100%;
-    height: auto;
-    grid-template-columns: repeat(2, 1fr);
-    grid-auto-rows: minmax(550px, auto);
-    grid-gap: 5rem;
-    grid-template-areas: "a b" "c d";
-    padding: 45 45 45 45;
-    margin-top: 20px;
-    margin-bottom: 5px;
-}
-
-.food-info-grid .fitem1{
-    grid-area: a;
-    background-image: url("../images/dall1.jpg");
-    background-position: center;
-    background-size: cover;
-    border-radius: 5px;
-}
-.food-info-grid .fitem2{
-    grid-area: b;
-}
-.food-info-grid .fitem3{
-    grid-area: c;
-}
-.food-info-grid .fitem4{
-    grid-area: d;
-    background-image: url("../images/dryfish.jpg");
-    background-position: center;
-    background-size: cover;
-    border-radius: 5px;
-}
-.most-get-foods{
-    margin: 150px 0 150px 0;
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/hbun3.jpg");
-    height: 90vh;
-    width: 100%;
-    background-position: center;
-    background-size: cover;
-    font-family: 'PT Sans Narrow', sans-serif;
-}
-.most-get-foods .title{
-    padding-top: 80px;
-    color: white;
-    font-size: 50px;
-}
-.most-food-grid{
-    display: grid;
-    width: 100%;
-    height: auto;
-    grid-template-columns: repeat(6, 1fr);
-    grid-auto-rows: minmax(350px, auto);
-    grid-gap: 1rem;
-    grid-template-areas: "a b c d e f";
-    padding: 45 45 45 45;
-    margin-top: 20px;
-    margin-bottom: 5px;
-}
-.mitem1, .mitem2, .mitem3, .mitem4, .mitem5, .mitem6{
-    background-position: center;
-    background-size: cover;
-    border-radius: 5px;
-}
-
-.most-food-grid .mitem1{
-    grid-area: a;
-    background-image: url("../images/cupcake1.jpg");
-}
-.most-food-grid .mitem2{
-    grid-area: b;
-    background-image: url("../images/fried_rice.jpg");
-}
-.most-food-grid .mitem3{
-    grid-area: c;
-    background-image: url("../images/hbun3.jpg");
-}
-.most-food-grid .mitem4{
-    grid-area: d;
-    background-image: url("../images/cupcake3.jpg");
-}
-.most-food-grid .mitem5{
-    grid-area: e;
-    background-image: url("../images/cutlet2.jpg");
-}
-.most-food-grid .mitem6{
-    grid-area: f;
-    background-image: url("../images/cupcake1.jpg");
-}
- /* 
-    ***************************************************************************************
-
-                             commen laptop screen and small screens
-
-                                            769px - 1400px
-
-    ***************************************************************************************
-*/
-
-@media only screen and (min-device-width: 821px) and (max-device-width: 1400px) {
-    .home-content{
-        background-image: -webkit-linear-gradient(rgba(63, 63, 63, 0.7), rgba(0, 0, 0, 0.7)), url("../images/fried_rice.jpg");
-    }
-}
-
-/* 
-    ***************************************************************************************
-
-                                        iPads, Tablets
-
-                                        481px — 768px
-
-    ***************************************************************************************
-*/
-
-@media only screen and (min-device-width: 481px) and (max-device-width: 820px) {
-    .food-grid{
-        display: grid;
-        width: 100%;
-        height: auto;
-        grid-template-columns: repeat(2, 1fr);
-        grid-auto-rows: minmax(300px, auto);
-        grid-gap: 1rem;
-        grid-template-areas: "a b" "c d";
-        padding: 45 45 45 45;
-        margin-top: 20px;
-        margin-bottom: 5px;
-    }
-    .nav-right{
-        margin-left: 80%;
-        margin-top: -40px;
-    }
-    .home-content{
-        background-image: -webkit-linear-gradient(rgba(63, 63, 63, 0.7), rgba(0, 0, 0, 0.7)), url("../images/dryfish.jpg");
-    }
-    .food-info-grid{
-        display: grid;
-        width: 100%;
-        height: auto;
-        grid-template-columns: repeat(1, 1fr);
-        grid-auto-rows: minmax(550px, auto);
-        grid-gap: 5rem;
-        grid-template-areas: "a" "b" "c" "d";
-        padding: 45 45 45 45;
-        margin-top: 20px;
-        margin-bottom: 5px;
-    }
-}
-
-/* 
-    ***************************************************************************************
-
-                                     commen mobile screen
-
-                                            320x480
-
-    ***************************************************************************************
-*/
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-    .food-grid{
-        display: grid;
-        width: 100%;
-        height: auto;
-        grid-template-columns: repeat(1, 1fr);
-        grid-auto-rows: minmax(250px, auto);
-        grid-gap: 1rem;
-        grid-template-areas: "a" "b" "c" "d";
-        padding: 30 30 30 30;
-        margin-top: 20px;
-        margin-bottom: 5px;
-    }
-    .logo-text{
-        color: white;
-        margin-left: 70px;
-        margin-top: -40px;
-        font-size: 18px;    
-    }
-    .nav-right{
-        margin-left: 60%;
-        margin-top: -30px;
-    }
-    .home-content{
-        background-image: -webkit-linear-gradient(rgba(63, 63, 63, 0.7), rgba(0, 0, 0, 0.7)), url("../images/cupcake2.jpg");
-    }
-    .food-info-grid{
-        display: grid;
-        width: 100%;
-        height: auto;
-        grid-template-columns: repeat(1, 1fr);
-        grid-auto-rows: minmax(550px, auto);
-        grid-gap: 5rem;
-        grid-template-areas: "a" "b" "c" "d";
-        padding: 45 45 45 45;
-        margin-top: 20px;
-        margin-bottom: 5px;
-    }
-}
+<?php //include("lib/layouts/main_footer.php"); ?>
+<script src="js/script.js"></script>
