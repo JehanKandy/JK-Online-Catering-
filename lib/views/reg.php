@@ -16,7 +16,15 @@
                             <input type="password" name="" id="" required="required">
                             <span>Password</span>
                         </div>
-                        <input type="submit" value="Login" class="login-btn" name="login"> 
+                        <div class="from-body">
+                            <input type="password" name="" id="" required="required">
+                            <span>Password</span>
+                        </div>
+                        <div class="from-body">
+                            <input type="password" name="" id="" required="required">
+                            <span>Password</span>
+                        </div>
+                        <input type="submit" value="Login" class="login-btn" name="register"> 
                 </form>
                 <a href="forget_pass.php" style="color: orange;">Forget Password ? </a>
                 <p style="color: white;">Don't Have an Account ? <a href="reg.php" style="color: orange;">Sign Up</a></p>
