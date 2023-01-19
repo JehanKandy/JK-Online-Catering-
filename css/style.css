@@ -426,6 +426,9 @@
     color: aqua;
     transform: translateX(10px) translateY(-7px);
     font-size: 10px;
+    padding: 0 10px;
+    background-color: orange;
+    letter-spacing: 1px;
 }
  /* 
     ***************************************************************************************
