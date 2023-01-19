@@ -391,6 +391,15 @@
     background-color: rgb(241, 241, 241);
     border-top: 1px solid rgb(209, 209, 209);
 }
+.login-content{
+    padding: 150px 0 150px 0;
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/hbun3.jpg");
+    height: 90vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
  /* 
     ***************************************************************************************
 
