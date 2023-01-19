@@ -400,6 +400,11 @@
     background-size: cover;
     font-family: 'PT Sans Narrow', sans-serif;
 }
+.full-form{
+    border: 1px solid white;
+    margin: 0 100px 0 100px;
+    padding: 50px 200px 50px 200px;
+}
 .from-body{
     box-sizing: border-box;
     display: flex;
