@@ -14,7 +14,7 @@
                         </div>    
                         <div class="from-body">
                             <input type="password" name="" id="" required="required">
-                            <span>Password</span>
+                            <span>Email</span>
                         </div>
                         <div class="from-body">
                             <input type="password" name="" id="" required="required">
@@ -22,7 +22,7 @@
                         </div>
                         <div class="from-body">
                             <input type="password" name="" id="" required="required">
-                            <span>Password</span>
+                            <span>Confirm Password</span>
                         </div>
                         <input type="submit" value="Login" class="login-btn" name="register"> 
                 </form>
