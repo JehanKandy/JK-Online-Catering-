@@ -4,7 +4,9 @@
 
 <div class="login-content">
     <div class="container">
-        hi
+        <div class="body">
+            
+        </div>
     </div>
 </div>
 
