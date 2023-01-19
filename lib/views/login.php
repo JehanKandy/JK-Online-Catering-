@@ -6,7 +6,7 @@
     <div class="container">
         <div class="body">
             <div class="full-form">
-                <form action="<?php echo($_SERVER['PHP_SELF']); ?>" method="POST" name="login_form" onsubmit="return validate_login(); ">
+                <form action="<?php echo($_SERVER['PHP_SELF']); ?>" method="POST">
                     <div class="title"><i class="fas fa-user-alt"></i> &nbsp; Login Here</div>
                         <div class="from-body">
                             <input type="text" name="" id="" required="required">
