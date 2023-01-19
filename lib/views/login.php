@@ -5,7 +5,21 @@
 <div class="login-content">
     <div class="container">
         <div class="body">
-            
+        <div class="full-form">
+            <form action="">
+                <div class="title"><i class="fas fa-user-alt"></i> &nbsp; Login Here</div>
+                    <div class="from-body">
+                        <input type="text" name="" id="" required="required">
+                        <span>Username</span>
+                    </div>    
+                    <div class="from-body">
+                        <input type="password" name="" id="" required="required">
+                        <span>Password</span>
+                    </div>
+                    <input type="submit" value="Login" class="login-btn" name="login">                    
+    
+            </form>
+            </div>   
         </div>
     </div>
 </div>
