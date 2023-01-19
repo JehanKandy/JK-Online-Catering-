@@ -28,6 +28,7 @@
   
   <h4> 19 January 2023</h4>
   
+  - lib/views/reg.php
   - lib/layouts/login_nav.php (UPDATE)
   - css/style.css (UPDATE)
   - lib/views/login.php (UPDATE)
