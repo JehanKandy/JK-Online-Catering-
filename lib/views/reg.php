@@ -26,7 +26,6 @@
                         </div>
                         <input type="submit" value="Login" class="login-btn" name="register"> 
                 </form>
-                <a href="forget_pass.php" style="color: orange;">Forget Password ? </a>
                 <p style="color: white;">Already have an Account ? <a href="login.php" style="color: orange;">Login</a></p>
             </div>   
         </div>
