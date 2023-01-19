@@ -30,7 +30,7 @@
   
   - lib/layouts/login_nav.php (UPDATE)
   - css/style.css (UPDATE)
-  - lib/views/login.php
+  - lib/views/login.php (UPDATE)
 
   
 
