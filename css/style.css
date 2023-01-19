@@ -393,7 +393,7 @@
 }
 .login-content{
     padding: 150px 0 150px 0;
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/hbun3.jpg");
+    background-image: -webkit-linear-gradient(rgba(78, 78, 78, 0.568), rgba(0, 0, 0, 0.7)), url("../images/hbun3.jpg");
     height: 90vh;
     width: 100%;
     background-position: center;
@@ -401,9 +401,16 @@
     font-family: 'PT Sans Narrow', sans-serif;
 }
 .full-form{
-    border: 1px solid white;
-    margin: 0 100px 0 100px;
-    padding: 50px 200px 50px 200px;
+    border: 2px solid orange;
+    margin: 0 250px 0 250px;
+    padding: 50px 100px 50px 100px;
+    border-radius: 5px;
+    background-color: rgb(37, 48, 56);
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.full-form .title{
+    margin-bottom: 20px;
+    color: white;
 }
 .from-body{
     box-sizing: border-box;
@@ -419,6 +426,7 @@
     border-radius: 3px;
     width: 100%;
     margin-bottom: 40px;
+    color: white;
 }
 .from-body span{
     position: absolute;
@@ -436,6 +444,9 @@
     padding: 0 10px;
     background-color: orange;
     letter-spacing: 1px;
+}
+.login-btn{
+    width: 100%;
 }
  /* 
     ***************************************************************************************
@@ -528,6 +539,11 @@
     .get-in .body{
         margin: 50px 150px 50px 150px;
     }
+    .full-form{
+        border: 1px solid white;
+        margin: 0 100px 0 100px;
+        padding: 50px 100px 50px 100px;
+    }
 }
 
 /* 
@@ -595,5 +611,10 @@
     }
     .get-in .body{
         margin: 20px;
+    }
+    .full-form{
+        border: 1px solid white;
+        margin: 0 10px 0 10px;
+        padding: 50px 30px 50px 30px;
     }
 }
