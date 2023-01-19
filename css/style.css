@@ -413,24 +413,26 @@
 .from-body input{
     position: relative;
     width: 250px;
-    height: 40px;
+    height: 50px;
     background: transparent;
     border: 1px solid white;
     border-radius: 3px;
+    width: 100%;
+    margin-bottom: 40px;
 }
 .from-body span{
     position: absolute;
     color: white;
-    padding: 10px;
+    padding: 15px;
     text-transform: uppercase;      
     transition: 0.5s;  
 }
 
 .from-body input:valid ~ span,
 .from-body input:focus ~ span{
-    color: aqua;
+    color: white;
     transform: translateX(10px) translateY(-7px);
-    font-size: 10px;
+    font-size: 15px;
     padding: 0 10px;
     background-color: orange;
     letter-spacing: 1px;
