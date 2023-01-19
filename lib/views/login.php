@@ -19,6 +19,7 @@
                         <input type="submit" value="Login" class="login-btn" name="login"> 
                 </form>
                 <a href="forget_pass.php" style="color: orange;">Forget Password ? </a>
+                Don't Have an Account ? <a href="reg.php" style="color: orange;">Sign Up</a>
             </div>   
         </div>
     </div>
