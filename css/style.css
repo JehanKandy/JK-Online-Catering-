@@ -400,6 +400,15 @@
     background-size: cover;
     font-family: 'PT Sans Narrow', sans-serif;
 }
+.reg-content{
+    padding: 150px 0 150px 0;
+    background-image: -webkit-linear-gradient(rgba(78, 78, 78, 0.568), rgba(0, 0, 0, 0.7)), url("../images/hbun5.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
 .full-form{
     border: 2px solid orange;
     margin: 0 250px 0 250px;
@@ -490,6 +499,15 @@
         padding: 45 45 45 45;
         margin-top: 20px;
         margin-bottom: 5px;
+    }
+    .reg-content{
+        padding: 150px 0 800px 0;
+        background-image: -webkit-linear-gradient(rgba(78, 78, 78, 0.568), rgba(0, 0, 0, 0.7)), url("../images/hbun5.jpg");
+        height: 100%;
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+        font-family: 'PT Sans Narrow', sans-serif;
     }
 }
 
@@ -630,5 +648,14 @@
         border: 1px solid white;
         margin: 0 10px 0 10px;
         padding: 50px 30px 50px 30px;
+    }
+    .reg-content{
+        padding: 150px 0 800px 0;
+        background-image: -webkit-linear-gradient(rgba(78, 78, 78, 0.568), rgba(0, 0, 0, 0.7)), url("../images/hbun5.jpg");
+        height: 100%;
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+        font-family: 'PT Sans Narrow', sans-serif;
     }
 }
