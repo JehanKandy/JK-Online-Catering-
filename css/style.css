@@ -400,6 +400,33 @@
     background-size: cover;
     font-family: 'PT Sans Narrow', sans-serif;
 }
+.from-body{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+.from-body input{
+    position: relative;
+    width: 250px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+.from-body span{
+    position: absolute;
+    color: white;
+    padding: 10px;
+    text-transform: uppercase;      
+    transition: 0.5s;  
+}
+
+.from-body input:valid ~ span,
+.from-body input:focus ~ span{
+    color: aqua;
+    transform: translateX(10px) translateY(-7px);
+    font-size: 10px;
+}
  /* 
     ***************************************************************************************
 
